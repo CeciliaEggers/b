@@ -1,0 +1,17 @@
+
+  
+.Footer {
+    background: rgb(185,17,203);
+    background: linear-gradient(90deg, #891096 0%, #084794 100%);
+    align-self:flex-end;
+    width:100%;
+    height:50px;
+  
+    
+}
+
+.Footer-text {
+    color: hsl(0, 0%, 100%);
+    font-size: 20px;
+    text-align: center;
+}

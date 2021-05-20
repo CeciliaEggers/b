@@ -1,0 +1,75 @@
+
+.itemCart {
+    width: 70%;
+    margin: 2% 10% 1% 25%;
+    display: grid;
+    grid-template-columns: 2fr 1fr;
+    grid-template-rows: 1fr;
+    grid-template-areas: 
+    "itemName botonRemove"
+    "itemDescription itemDescription";
+    border-radius: 10px;
+}
+
+.itemCart h6 {
+    font-size: 16px;
+    margin: 2%;
+}
+.itemName {
+    font-size: 18px;
+    margin: 1%;
+    width: 80%;
+    text-align: left;
+    text-indent: 4%;
+    grid-area: itemName;
+    padding:2% 0% 2% 0%;
+}
+ul.itemDescription {
+    list-style-type: none;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    justify-content: start;
+    text-align: left;
+    width: 100%;
+    grid-area: itemDescription;
+}
+ul.itemDescription li{
+    text-align: left;
+    margin: 1%;
+}
+
+.botonRemove {
+    grid-area: botonRemove;
+}
+
+
+.bt-comprar {text-decoration: none;
+    padding: 5px;
+    margin-top: 10px;
+    font-weight: 600;
+    font-size: 15px;
+    color: #ffffff;
+    background-color: #54429e;
+    border-radius: 6px;
+    border: 2px solid #333b77;
+
+}
+.bt-productos {
+    margin-top: 15px;
+    text-decoration: none;
+padding: 5px;
+font-weight: 600;
+font-size: 15px;
+color: #ffffff;
+background-color: #513a58;
+border-radius: 6px;
+border: 2px solid #40124e;
+}
+
+
+
+.detalle {
+    padding: 90px;
+    margin-bottom: 100px
+}
