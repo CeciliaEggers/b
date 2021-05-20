@@ -11,8 +11,8 @@ import "../../containers/ItemListContainer/ItemListContainer.css"
         
         <div className="itemLista">
            
-             <Link to={{pathname:`/productos/${producto.categoryId}/${producto.id}`, state:{producto:producto}}}> 
-                                <img src={producto.URL}className="img rotate-hor-center"  alt= "imagen"/>
+             <Link to={{pathname:`/productos/${producto.categoryId}/${producto.id}`, state:{producto:producto}}} style={{ textDecoration: 'none' }}> 
+                                <img src={producto.URL}className="img"  alt= "imagen"/>
                                 <h5 className='title-item'>{producto.Tittle}</h5>
                                 <p className="price-item">${producto.Precio}</p>
                             </Link>

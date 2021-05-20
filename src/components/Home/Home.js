@@ -1,5 +1,6 @@
 import React from 'react';
 import ItemListContainer from "../../containers/ItemListContainer/ItemListContainer"
+import "./Home.css"
 
 const Home =()=> {
 

@@ -7,29 +7,22 @@
     flex-wrap: wrap;
     margin-bottom: 50px
 }
-.title {padding:40px;
-font-family: sans-serif;
-color:rgb(4, 2, 34)}
-.cat {
-    width: 300px;
-    height: auto;
-    margin: 0px;
-    box-shadow:
-  0 2.8px 2.2px rgba(0, 0, 0, 0.044),
-  0 6.7px 5.3px rgba(0, 0, 0, 0.058),
-
+.title {   font-size: 20px;
+    margin: 2%;
+    color: rgb(38, 41, 80);
+    font-family: sans-serif;
 }
+
 .cat h4 {
     text-align: center;
-    color: rgb(4, 2, 34);
-    text-transform: uppercase;
+    color: rgb(38, 41, 80);
     font-weight:bold;
     font-size: 20px;
 }
 .cat img {
  
-    padding: 15%;
-    width: 360px;
-    height: 300px;
+    padding: 25%;
+    width: 380px;
+    height: 347px;
    
 }

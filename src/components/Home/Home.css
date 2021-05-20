@@ -1,10 +1,12 @@
-h3 {
+h2 {
     font-size: 25px;
-    color: mintcream;
-    padding: 1%;
-    margin: 1%;
+    color: rgb(38, 41, 80);
+    padding: 15px;
+    font-family: sans-serif;
 }
 p{
     font-size: 18px;
     margin: 2%;
+    color: rgb(38, 41, 80);
+    font-family: sans-serif;
 }

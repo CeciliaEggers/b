@@ -26,7 +26,7 @@ const Cart = () => {
                
                 <ul className="itemDescription">
      
-                <li> <img className="img.carrito" src={articulo.producto.URL} alt="imagen producto" /></li>
+                <li> <img className="img" src={articulo.producto.URL} alt="imagen producto" /></li>
                 <li>Producto: {articulo.producto.Tittle}</li>
                   <li>Precio por unidad: $ {articulo.producto.Precio}</li>
                   <li>Cantidad: {articulo.cantidad}</li>
