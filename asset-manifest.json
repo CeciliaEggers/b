@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/bajo-cero-/static/css/main.24d7f7c1.chunk.css",
+    "main.js": "/bajo-cero-/static/js/main.6acbfddf.chunk.js",
+    "main.js.map": "/bajo-cero-/static/js/main.6acbfddf.chunk.js.map",
+    "runtime-main.js": "/bajo-cero-/static/js/runtime-main.397a8acb.js",
+    "runtime-main.js.map": "/bajo-cero-/static/js/runtime-main.397a8acb.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/bajo-cero-/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c4d8a4bd.chunk.js": "/bajo-cero-/static/js/2.c4d8a4bd.chunk.js",
+    "static/js/2.c4d8a4bd.chunk.js.map": "/bajo-cero-/static/js/2.c4d8a4bd.chunk.js.map",
+    "static/js/3.677cb85e.chunk.js": "/bajo-cero-/static/js/3.677cb85e.chunk.js",
+    "static/js/3.677cb85e.chunk.js.map": "/bajo-cero-/static/js/3.677cb85e.chunk.js.map",
+    "index.html": "/bajo-cero-/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/bajo-cero-/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.24d7f7c1.chunk.css.map": "/bajo-cero-/static/css/main.24d7f7c1.chunk.css.map",
+    "static/js/2.c4d8a4bd.chunk.js.LICENSE.txt": "/bajo-cero-/static/js/2.c4d8a4bd.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.397a8acb.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.c4d8a4bd.chunk.js",
+    "static/css/main.24d7f7c1.chunk.css",
+    "static/js/main.6acbfddf.chunk.js"
+  ]
+}
